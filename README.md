@@ -21,16 +21,19 @@ Users should be able to:
 
 ### Screenshot
 
+<p>Screenshot for Mobile Devices</p>
 ![Screenshot for Mobile Devices](/screenshots/Mobile%20Devices.png)
 
+<p>Screenshot for Desktop Devices</p>
 ![Screenshot for Desktop Devices](/screenshots/Desktop%20Devices.png)
 
+<p>Screenshot for Active State</p>
 ![Screenshot for Active State](/screenshots/Active%20State.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/P0IW/Social_link_profile/tree/main)
-- Live Site URL: [Add live site URL here](https://p0iw.github.io/Social_Links_Profile_Page/#)
+- Solution URL: [Social Links Profile Solution](https://github.com/P0IW/Social_Links_Profile_Page)
+- Live Site URL: [Social Links Profile Page](https://p0iw.github.io/Social_Links_Profile_Page/#)
 
 ### Built with
 
