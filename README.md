@@ -21,13 +21,10 @@ Users should be able to:
 
 ### Screenshot
 
-<p>Screenshot for Mobile Devices</p>
 ![Screenshot for Mobile Devices](/screenshots/Mobile%20Devices.png)
 
-<p>Screenshot for Desktop Devices</p>
 ![Screenshot for Desktop Devices](/screenshots/Desktop%20Devices.png)
 
-<p>Screenshot for Active State</p>
 ![Screenshot for Active State](/screenshots/Active%20State.png)
 
 ### Links
